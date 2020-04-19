@@ -23,7 +23,7 @@
 
 |--|[date:1090419sun]-[動作:建立-資料夾--]
 
-|----|[github-網頁模式]-[create-file-建立-新檔]時
+|----|[github-網頁模式]-[按鈕:create-new-file]-建立-新檔-時
 
 |----|檔案路徑-可以-用-手工輸入-指定-到-${repo}/${new_folder}/${new_filename}
 
