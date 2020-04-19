@@ -1,8 +1,6 @@
 # fwy3s408k
 |--|[date:1090419sun]-[動作:登入-或-登出-網頁:github]
-
 |----|with-${username}
-
 |------|登入-github-網頁-
 
 |--------|[入口-http://github.com]
